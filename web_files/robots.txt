@@ -1,0 +1,67 @@
+# /robots.txt file for http://www.holycross.edu
+
+# mail webmaster@holycross.edu for constructive criticism
+
+
+
+
+
+User-agent: *
+
+Disallow: /btmp/
+
+Disallow: /christian/
+
+Disallow: /css/
+
+Disallow: /diotima/
+
+Disallow: /htdig/
+
+Disallow: /lists/
+
+Disallow: /lost+found/
+
+Disallow: /4media/
+
+Disallow: /style_sheets/
+
+Disallow: /weblint/
+
+Disallow: /weblint-1.020/
+
+Disallow: /socialweb/
+
+Disallow: /style_sheets/
+
+Disallow: /departments/chaplains/
+
+Disallow: /departments/math/
+
+Disallow: /departments/registrar/website/
+
+Disallow: /departments/webteaching/
+
+Disallow: /web_analytics/
+
+Disallow: /webapps/
+
+Disallow: /wv3/
+
+Disallow: /finaidtest/
+
+Disallow: /calendar/
+
+Disallow: /alumni/report/donors/
+
+Disallow: /alumni/report/donors/presidentscouncil/members/
+
+Dissalow: /alumni/events/GAA/resources/
+
+Dissalow: /arts2013/
+
+Dissalow: /arts2013/video/
+
+Dissalow: /_webdevelopment/
+
+Dissalow: /studentlife/dining/kimball/
